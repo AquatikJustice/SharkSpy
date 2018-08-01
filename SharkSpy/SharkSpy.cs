@@ -5,7 +5,7 @@ using System.Reflection;
 [ModDescription("Wearing the shark's head will keep the shark from attacking you while you're in the water.")]
 [ModAuthor("AquatikJustice")]
 [ModVersion("1.0")]
-[RaftVersion("1.03")]
+[RaftVersion("Update 5")]
 public class SharkSpy : Mod
 {
     HarmonyInstance instance;
